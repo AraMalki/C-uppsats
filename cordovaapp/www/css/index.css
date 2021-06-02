@@ -1,0 +1,41 @@
+body {
+    background-color: whitesmoke;
+    padding: 0;
+    margin: 0;
+}
+
+#app-titel {
+    background-color: green;
+    text-align: start !important;
+    color: white;
+}
+
+#app-titel p {
+    margin: 0;
+    font-weight: bolder;
+    padding: 15px;
+    font-size: 20px;
+}
+
+button {
+    background-color: green;
+    padding: 10px;
+    margin-top: 10px;
+    color: white;
+}
+
+#read {
+    color: black;
+    height: 150px;
+    padding: 5px;
+    overflow-y: scroll;
+    max-width: 350px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.times {
+    color: black;
+    margin: 0;
+    text-align: center;
+}

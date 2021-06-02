@@ -1,0 +1,10 @@
+"filename", "language", "JSON", "HTML", "TypeScript", "XML", "JavaScript", "CSS", "comment", "blank", "total"
+"c:\Users\ara98\Desktop\cordovaapp\config.xml", "XML", 0, 0, 0, 27, 0, 0, 0, 1, 28
+"c:\Users\ara98\Desktop\cordovaapp\jsconfig.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\ara98\Desktop\cordovaapp\package-lock.json", "JSON", 734, 0, 0, 0, 0, 0, 0, 1, 735
+"c:\Users\ara98\Desktop\cordovaapp\package.json", "JSON", 31, 0, 0, 0, 0, 0, 0, 0, 31
+"c:\Users\ara98\Desktop\cordovaapp\typings\cordova-typings.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 1, 1, 2
+"c:\Users\ara98\Desktop\cordovaapp\www\css\index.css", "CSS", 0, 0, 0, 0, 0, 36, 0, 5, 41
+"c:\Users\ara98\Desktop\cordovaapp\www\index.html", "HTML", 0, 32, 0, 0, 0, 0, 0, 8, 40
+"c:\Users\ara98\Desktop\cordovaapp\www\js\index.js", "JavaScript", 0, 0, 0, 0, 152, 0, 5, 28, 185
+"Total", "-", 766, 32, 0, 27, 152, 36, 6, 44, 1063

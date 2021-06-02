@@ -1,0 +1,40 @@
+<!DOCTYPE html >
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' http://* 'unsafe-inline'; script-src 'self' http://* 'unsafe-inline' 'unsafe-eval'" />
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
+    <link rel="stylesheet" href="css/index.css">
+    <title>Cordova performance test</title>
+</head>
+
+<body>
+
+    <div id="app-titel">
+        <p>Cordova performance test</p>
+    </div>
+
+    <center>
+        <button id="startBtn">Run test X times</button>
+    </center>
+
+    <div id="read">
+        This window will provide content of the file.
+    </div>
+
+    <p class="times" id="avg-gps">Avg GPS: <span id="gps-time"></span> ms</p>
+    <p class="times" id="avg-call">Avg call: <span id="call-time"></span> ms</p>
+    <p class="times" id="avg-write">Avg write: <span id="write-time"></span> ms</p>
+    <p class="times" id="avg-read">Avg read :<span id="read-time"></span> ms</p>
+    <p class="times" id="avg-test">Avg test: <span id="test-time"></span> ms</p>
+    <p class="times" id="tests-comp">Tests completed: <span id="tests-amount"></span></p>
+    <p class="times" id="total-time">Total time: <span id="time-total">0.0</span>s</p>
+
+    <script src="cordova.js"></script>
+    <script src="js/index.js"></script>
+</body>
+
+</html>

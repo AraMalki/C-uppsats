@@ -1,0 +1,11 @@
+{
+    "android": {
+        "release": {
+            "keystore": "asd.keystore",
+            "storePassword": "asdasd",
+            "alias": "asd",
+            "password" : "asdasd",
+            "keystoreType": "JKS"
+        }
+    }
+}
